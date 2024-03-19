@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ayşe Nur Şahin</h1>
-
+<div align="center">
+ <a href="https://github.com/ayseesahin"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&center=true&vCenter=true&color=30C7FF&width=435&lines=Ay%C5%9Fe+Nur+%C5%9Eahin;Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile" alt="Typing SVG" /></a>
+</div>
+<br/>
  <img align="right" src="https://redblink.com/wp-content/uploads/2019/07/front-end-back-end-and-full-stack-web-development..gif" alt="MasterHead" width="500" height="300" align="right">
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayseesahin&label=Profile%20views&color=0e75b6&style=flat" alt="ayseesahin" /> </p>
 <h3 align="left">&nbsp; A passionate full stack developer from Turkey</h3>
-
-<br/>
 
 - 🔭 I’m currently working on **Asp.Net Core**
 
