@@ -3,7 +3,6 @@
 </div>
 <br/>
  <img align="right" src="https://redblink.com/wp-content/uploads/2019/07/front-end-back-end-and-full-stack-web-development..gif" alt="MasterHead" width="500" height="300" align="right">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayseesahin&label=Profile%20views&color=0e75b6&style=flat" alt="ayseesahin" /> </p>
 <h3 align="left">&nbsp; A passionate full stack developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Asp.Net Core**
@@ -61,11 +60,9 @@
 </br>
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayseesahin&show_icons=true&locale=en&layout=compact" alt="ayseesahin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayseesahin&show_icons=true&locale=en" alt="ayseesahin" /></p>
-</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayseesahin&" alt="ayseesahin" /></p>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayseesahin&label=Profile%20views&color=0e75b6&style=flat" alt="ayseesahin" /> </p>
 
 ![snake gif](https://github.com/ayseesahin/ayseesahin/blob/output/github-contribution-grid-snake.gif)
 <picture>
